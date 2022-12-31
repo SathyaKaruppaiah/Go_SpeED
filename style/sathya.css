@@ -7,7 +7,8 @@ background-color: rgb(238, 234, 234);
     padding-right: 100px;
 }
 .main{
-    background: url(/sathya/images/wal5.jpeg);
+    background: url(/sathya/images/wal6.jpeg)no-repeat;
+    background: url(/sathya/images/wal5.jpeg)no-repeat;
     background-size: cover;
 
     height: 100vh;
